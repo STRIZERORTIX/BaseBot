@@ -1,5 +1,5 @@
-import Hero from "./components/hero.jsx";
-import Demo from "./components/demo.jsx";
+import Hero from "./Components/hero.jsx";
+import Demo from "./Components/demo.jsx";
 import "./app.css";
 
 const App = () => {
